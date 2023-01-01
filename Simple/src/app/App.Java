@@ -2,6 +2,7 @@ package app;
 
 public class App {
     public static void main(String[] args) {
+        System.out.println("Hello Weird Welt another wonderful test");
 <<<<<<< HEAD
         System.out.println("Hello Weird World ");
 =======
@@ -13,3 +14,4 @@ public class App {
     }
 
 }
+
